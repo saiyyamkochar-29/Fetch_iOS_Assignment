@@ -1,4 +1,4 @@
-# Fetch_iOS_Assignment
+# Fetch iOS Assignment
 iOS development take-home assignment from Fetch
 
 ## Features
@@ -9,7 +9,7 @@ iOS development take-home assignment from Fetch
 - Asynchronously load images from the network.
 - Handle errors from network requests.
 
-## Implementation Details
+## Implementation Details (View.Swift)
 
 - `ContentView`: Main view of the application that fetches and lists desserts.
 - `DessertManager`: ObservableObject class that manages fetching and storing of desserts.
