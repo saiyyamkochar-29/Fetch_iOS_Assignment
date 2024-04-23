@@ -1,5 +1,7 @@
-# Fetch iOS Assignment
-iOS development take-home assignment from Fetch
+# iDessertful 🍰
+iDessertful is a native iOS application designed to help users explore recipes using the MealDB API. Users can browse a variety of dessert recipes sorted alphabetically, with each recipe displaying details such as meal name, instructions, and ingredients with measurements. The application utilizes two endpoints from the MealDB API to fetch the list of meals in the Dessert category and retrieve meal details by ID, enhancing the user experience in discovering and learning about different dessert recipes.
+
+Made with 🤎 by [Saiyyam Kochar](https://github.com/saiyyamkochar-29), supported by girlfriend with a sweet-tooth.
 
 ## Features
 
